@@ -1,0 +1,5 @@
+PIL
+pdfplumber
+pdf2image
+reportlab
+pdfrw
