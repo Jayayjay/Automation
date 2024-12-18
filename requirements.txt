@@ -3,3 +3,5 @@ pdfplumber
 pdf2image
 reportlab
 pdfrw
+pandas
+requests
